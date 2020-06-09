@@ -1,2 +1,3 @@
 # Capsule-Rental-System
- It is a small scale project built on java and swing
+Well my project is a simple and small management system based on CRUD operations.
+It is developed using java. It’s Graphical User Interference is made using the swing library of java. The DATABASE is made using MySQL and phpMyAdmin.
