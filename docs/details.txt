@@ -1,0 +1,8 @@
+username : root
+password: toor
+
+username: retr0
+password: admin 
+
+only new users can be created from database because program 
+wont allow creation of new users because of protected data
