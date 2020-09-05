@@ -7,4 +7,4 @@ It is developed using java. It’s Graphical User Interface is made using the sw
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/vVnpWYm/CSP3.jpg" alt="CSP3" border="0"></a>
 <a href="https://ibb.co/D1wz6BG"><img src="https://i.ibb.co/7SrjT3g/CSP4.jpg" alt="CSP4" border="0"></a>
 <a href="https://ibb.co/QrHN1VN"><img src="https://i.ibb.co/J5p7MT7/CSP5.jpg" alt="CSP5" border="0"></a>
-<a href="https://ibb.co/bz0tK2M"><img src="https://i.ibb.co/18gcmdt/CSP6.jpg" alt="CSP6" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>google find photo</a><br />
+<a href="https://ibb.co/bz0tK2M"><img src="https://i.ibb.co/18gcmdt/CSP6.jpg" alt="CSP6" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
